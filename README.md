@@ -1,4 +1,5 @@
-# Git-Study-
+# Git-Study
+
 # Git & GitHub Learning Repository
 
 This repository documents my journey of learning Git and GitHub.
