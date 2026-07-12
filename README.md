@@ -36,6 +36,10 @@ git commit -m "Add full stack course modules and practice files"
 git branch -M main
 
 git remote add origin https://github.com/YourUsername/Full-Stack-Development-Course.git
+
+git remote -v
+
+git push -u origin main
 ```
 For future updates, you only need these commands:
 ```txt
@@ -46,8 +50,3 @@ git add .
 git commit -m "Add React course practice files"
 
 git push
-
-
-git remote -v
-
-git push -u origin main
