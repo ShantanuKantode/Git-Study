@@ -15,6 +15,8 @@ This repository documents my journey of learning Git and GitHub.
 
 The purpose of this repository is to track my progress, practice version control concepts, and build a strong foundation in Git and GitHub.
 
+Git Commands
+
 
 ```txtx
 git config --global user.name "Shantanu Kantode"
